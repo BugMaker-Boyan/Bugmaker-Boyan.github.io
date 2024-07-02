@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Boyan Li"
 description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "BugMaker-Boyan/BugMaker-Boyan.github.io"
+repository               : "bugmaker-boyan/bugmaker-boyan.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Boyan Li"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  avatar           : "images/avatar.jpg"
+  bio              : "HKUST(GZ)"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=RZ2oElwAAAAJ"
+  email            : "boyanli@hkust-gz.edu.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "BugMaker-Boyan"
   google_plus      :
   keybase          :
   instagram        :
