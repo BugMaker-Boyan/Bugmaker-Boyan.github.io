@@ -28,14 +28,17 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2024</div><img src='images/paper/nl2sql360.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'>
+    <div class='paper-box-image'><div>
+        <div class="badge">VLDB 2024</div>
+        <img src='images/paper/nl2sql360.png' alt="sym" width="100%">
+        </div>
+    </div>
+</div>
 <div class='paper-box-text' markdown="1">
-
-[The Dawn of Natural Language to SQL: Are We Fully Ready? ](https://arxiv.org/abs/2406.01265)
-
+[The Dawn of Natural Language to SQL: Are We Fully Ready?](https://arxiv.org/abs/2406.01265)
 **Boyan Li**, Yuyu Luo, Chengliang Chai, Guoliang Li, Nan Tang
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
