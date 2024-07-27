@@ -48,7 +48,7 @@ I am an incoming PhD student at the [Hong Kong University of Science and Technol
 
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ARXIV</div>
+      <div class="badge">ARXIV 2024</div>
       <img src='images/paper/statqa.png' alt="sym" width="100%">
     </div>
   </div>
@@ -81,12 +81,12 @@ I am an incoming PhD student at the [Hong Kong University of Science and Technol
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.07* Highest Honors in Computer Science and Engineering, Southern University of Science and Technology.
+- *2023.07* Outstanding Graduates, Southern University of Science and Technology.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.07 - (now)*, Research Assistant, Hong Kong University of Science and Technology (Guangzhou).
+- *2019.09 - 2023.07*, Bachelor of Computer Science and Technology, Southern University of Science and Technology. 
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.07 - 2022.09*, [Huawei Central Research Institute](https://www.huawei.com/cn/), Shenzhen, China.
