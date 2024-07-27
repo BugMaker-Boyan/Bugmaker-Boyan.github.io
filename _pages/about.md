@@ -21,8 +21,8 @@ I am an incoming PhD student at the [Hong Kong University of Science and Technol
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 Paper [The Dawn of Natural Language to SQL: Are We Fully Ready?] has been accepted by VLDB'24. 
-- *2022.02*: &nbsp;🎉🎉 Ppaer [Efficient Deep Spiking Multilayer Perceptrons With Multiplication-Free Inference] has been accepted by TNNLS'24.
+- *2024.06*: &nbsp;🎉🎉 Paper [The Dawn of Natural Language to SQL: Are We Fully Ready?](https://arxiv.org/abs/2406.01265) has been accepted by VLDB'24. 
+- *2024.04*: &nbsp;🎉🎉 Ppaer [Efficient Deep Spiking Multilayer Perceptrons With Multiplication-Free Inference](https://ieeexplore.ieee.org/abstract/document/10535518) has been accepted by TNNLS'24.
 
 # 📝 Publications 
 
@@ -38,9 +38,46 @@ I am an incoming PhD student at the [Hong Kong University of Science and Technol
   <div class='paper-box-text' markdown="1">
   [The Dawn of Natural Language to SQL: Are We Fully Ready?](https://arxiv.org/abs/2406.01265) \\
   **Boyan Li**, Yuyu Luo, Chengliang Chai, Guoliang Li, Nan Tang
-  [**Project**](https://github.com/BugMaker-Boyan/NL2SQL360) <strong><span></span></strong>
+
+  [**Project**](https://github.com/HKUSTDial/NL2SQL360) \| [![](https://img.shields.io/github/stars/HKUSTDial/NL2SQL360?style=social&label=Code+Stars)](https://github.com/HKUSTDial/NL2SQL360)
   </div>
-  
+
+</div>
+
+<div class='paper-box'>
+
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ARXIV</div>
+      <img src='images/paper/statqa.png' alt="sym" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+  [Are Large Language Models Good Statisticians?](https://arxiv.org/abs/2406.07815) \\
+  Yizhang Zhu, Shiyin Du, **Boyan Li**, Yuyu Luo, Nan Tang
+
+  [**Project**](https://github.com/derrickzhuyz/StatQA) \| [![](https://img.shields.io/github/stars/derrickzhuyz/StatQA?style=social&label=Code+Stars)](https://github.com/derrickzhuyz/StatQA)
+  </div>
+
+</div>
+
+<div class='paper-box'>
+
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">TNNLS 2024</div>
+      <img src='images/paper/nl2sql360.png' alt="sym" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+  [Efficient Deep Spiking Multi-Layer Perceptrons with Multiplication-Free Inference](https://ieeexplore.ieee.org/abstract/document/10535518) \\
+  **Boyan Li**, Luziwei Leng, Shuaijie Shen, Kaixuan Zhang, Jianguo Zhang, Jianxing Liao, Ran Cheng
+
+  [**Project**](https://github.com/EMI-Group/mixer-snn) \| [![](https://img.shields.io/github/stars/EMI-Group/mixer-snn?style=social&label=Code+Stars)](https://github.com/EMI-Group/mixer-snn)
+  </div>
+
 </div>
 
 # 🎖 Honors and Awards
