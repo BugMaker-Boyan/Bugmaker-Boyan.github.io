@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PhD student at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). I am honored to be supervised by Professor [Yuyu Luo](https://luoyuyu.vip/). Previously, I obtained my bachelor's degree from the [School of Information](http://info.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My current research interest includes Text-to-SQL translation and evaluation.
+I am an incoming PhD student at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). I am honored to be supervised by Professor [Yuyu Luo](https://luoyuyu.vip/). Previously, I obtained my bachelor's degree from the [Southern University of Science and Technology](https://www.sustech.edu.cn/). My current research interest includes Text-to-SQL translation and evaluation.
 
 
 # 🔥 News
@@ -67,7 +67,7 @@ I am an incoming PhD student at the [Hong Kong University of Science and Technol
   <div class='paper-box-image'>
     <div>
       <div class="badge">TNNLS 2024</div>
-      <img src='images/paper/nl2sql360.png' alt="sym" width="100%">
+      <img src='images/paper/mixer_snn.png' alt="sym" width="100%">
     </div>
   </div>
 
