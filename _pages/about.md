@@ -30,7 +30,7 @@ I am an incoming PhD student at the [Hong Kong University of Science and Technol
 
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ARXIV</div>
+      <div class="badge">ARXIV 2024</div>
       <img src='images/paper/nl2sql_survey.png' alt="sym" width="100%">
     </div>
   </div>
