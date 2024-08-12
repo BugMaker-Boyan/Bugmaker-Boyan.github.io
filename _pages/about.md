@@ -30,6 +30,24 @@ I am an incoming PhD student at the [Hong Kong University of Science and Technol
 
   <div class='paper-box-image'>
     <div>
+      <div class="badge">ARXIV</div>
+      <img src='images/paper/nl2sql_survey.png' alt="sym" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+  [A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?](https://arxiv.org/abs/2408.05109) \\
+  Xinyu Liu, Shuyu Shen, **Boyan Li**, Peixian Ma, Runzhi Jiang, Yuyu Luo, Yuxin Zhang, Ju Fan, Guoliang Li, Nan Tang
+
+  [**Project**](https://github.com/HKUSTDial/NL2SQL_Handbook) \| [![](https://img.shields.io/github/stars/HKUSTDial/NL2SQL_Handbook?style=social&label=Code+Stars)](https://github.com/HKUSTDial/NL2SQL_Handbook)
+  </div>
+
+</div>
+
+<div class='paper-box'>
+
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">VLDB 2024</div>
       <img src='images/paper/nl2sql360.png' alt="sym" width="100%">
     </div>
