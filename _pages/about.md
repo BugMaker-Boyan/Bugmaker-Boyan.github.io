@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PhD student at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/). I am honored to be supervised by Professor [Yuyu Luo](https://luoyuyu.vip/). Previously, I obtained my bachelor's degree from the [Southern University of Science and Technology](https://www.sustech.edu.cn/). My current research interest includes Text-to-SQL translation and evaluation.
+I am a PhD student at the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by Professor [Yuyu Luo](https://luoyuyu.vip/). Previously, I obtained my bachelor's degree from the [Southern University of Science and Technology](https://www.sustech.edu.cn/). My current research interest includes Text-to-SQL translation and evaluation.
 
 
 # 🔥 News
@@ -103,7 +103,8 @@ I am an incoming PhD student at the [Hong Kong University of Science and Technol
 - *2023.07* Outstanding Graduates, Southern University of Science and Technology.
 
 # 📖 Educations
-- *2023.07 - (now)*, Research Assistant, Hong Kong University of Science and Technology (Guangzhou).
+- *2024.09 - (now)*, PhD Student, Hong Kong University of Science and Technology (Guangzhou).
+- *2023.07 - 2024.09*, Research Assistant, Hong Kong University of Science and Technology (Guangzhou).
 - *2019.09 - 2023.07*, Bachelor of Computer Science and Technology, Southern University of Science and Technology. 
 
 # 💻 Internships
