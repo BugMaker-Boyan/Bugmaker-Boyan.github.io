@@ -109,3 +109,8 @@ I am a PhD student at the [Hong Kong University of Science and Technology (Guang
 
 # 💻 Internships
 - *2022.07 - 2022.09*, [Huawei Central Research Institute](https://www.huawei.com/cn/), Shenzhen, China.
+
+
+<div style="text-align: center;">
+    <a href="https://beian.miit.gov.cn/" target="_blank">鲁ICP备2024081733号-1</a>
+</div>
