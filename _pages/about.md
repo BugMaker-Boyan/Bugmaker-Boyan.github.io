@@ -57,7 +57,7 @@ I am a PhD student at the [Hong Kong University of Science and Technology (Guang
   [The Dawn of Natural Language to SQL: Are We Fully Ready?](https://arxiv.org/abs/2406.01265) \\
   **Boyan Li**, Yuyu Luo, Chengliang Chai, Guoliang Li, Nan Tang
 
-  [**Project**](https://github.com/HKUSTDial/NL2SQL360) \| [![](https://img.shields.io/github/stars/HKUSTDial/NL2SQL360?style=social&label=Code+Stars)](https://github.com/HKUSTDial/NL2SQL360)
+  [**Project**](https://github.com/HKUSTDial/NL2SQL360) \| [**Leaderboard**](https://nl2sql360.github.io/) \| [![](https://img.shields.io/github/stars/HKUSTDial/NL2SQL360?style=social&label=Code+Stars)](https://github.com/HKUSTDial/NL2SQL360)
   </div>
 
 </div>
