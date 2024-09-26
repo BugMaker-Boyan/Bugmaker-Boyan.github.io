@@ -21,6 +21,7 @@ I am a PhD student at the [Hong Kong University of Science and Technology (Guang
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Paper [Are Large Language Models Good Statisticians?](https://arxiv.org/abs/2406.07815) has been accepted by NIPS'24. 
 - *2024.06*: &nbsp;🎉🎉 Paper [The Dawn of Natural Language to SQL: Are We Fully Ready?](https://arxiv.org/abs/2406.01265) has been accepted by VLDB'24. 
 - *2024.04*: &nbsp;🎉🎉 Ppaer [Efficient Deep Spiking Multilayer Perceptrons With Multiplication-Free Inference](https://ieeexplore.ieee.org/abstract/document/10535518) has been accepted by TNNLS'24.
 
@@ -66,7 +67,7 @@ I am a PhD student at the [Hong Kong University of Science and Technology (Guang
 
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ARXIV 2024</div>
+      <div class="badge">NIPS 2024</div>
       <img src='images/paper/statqa.png' alt="sym" width="100%">
     </div>
   </div>
