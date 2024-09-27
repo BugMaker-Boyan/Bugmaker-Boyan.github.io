@@ -76,7 +76,7 @@ I am a PhD student at the [Hong Kong University of Science and Technology (Guang
   [Are Large Language Models Good Statisticians?](https://arxiv.org/abs/2406.07815) \\
   Yizhang Zhu, Shiyin Du, **Boyan Li**, Yuyu Luo, Nan Tang
 
-  [**Project**](https://github.com/HKUSTDial/StatQA) \| [![](https://img.shields.io/github/stars/derrickzhuyz/StatQA?style=social&label=Code+Stars)](https://github.com/derrickzhuyz/StatQA)
+  [**Project**](https://github.com/HKUSTDial/StatQA) \| [![](https://img.shields.io/github/stars/derrickzhuyz/StatQA?style=social&label=Code+Stars)](https://github.com/HKUSTDial/StatQA)
   </div>
 
 </div>
