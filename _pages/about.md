@@ -104,7 +104,7 @@ I am a PhD student at the [Hong Kong University of Science and Technology (Guang
 - *2023.07* Outstanding Graduates, Southern University of Science and Technology.
 
 # 📖 Educations
-- *2024.09 - (now)*, PhD Student, Hong Kong University of Science and Technology (Guangzhou).
+- *2024.09 - Present*, PhD Student, Hong Kong University of Science and Technology (Guangzhou).
 - *2023.07 - 2024.09*, Research Assistant, Hong Kong University of Science and Technology (Guangzhou).
 - *2019.09 - 2023.07*, Bachelor of Computer Science and Technology, Southern University of Science and Technology. 
 
@@ -112,7 +112,7 @@ I am a PhD student at the [Hong Kong University of Science and Technology (Guang
 - *2022.07 - 2022.09*, [Huawei Central Research Institute](https://www.huawei.com/cn/), Shenzhen, China.
 
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <span>Website Record:&nbsp;</span>
     <a href="https://beian.miit.gov.cn/" target="_blank">鲁ICP备2024081733号-1</a>
-</div>
+</div> -->
