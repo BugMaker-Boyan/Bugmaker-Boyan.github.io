@@ -32,6 +32,23 @@ I am a PhD student at the [Hong Kong University of Science and Technology (Guang
   <div class='paper-box-image'>
     <div>
       <div class="badge">ARXIV 2024</div>
+      <img src='images/paper/nl_rewriter.png' alt="sym" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+  [A Plug-and-Play Natural Language Rewriter for Natural Language to SQL](https://arxiv.org/abs/2412.17068) \\
+  Peixian Ma, **Boyan Li**, Runzhi Jiang, Ju Fan, Nan Tang, Yuyu Luo
+
+  </div>
+
+</div>
+
+<div class='paper-box'>
+
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ARXIV 2024</div>
       <img src='images/paper/nl2sql_survey.png' alt="sym" width="100%">
     </div>
   </div>
